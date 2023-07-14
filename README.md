@@ -1,70 +1,108 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📗 Table of Contents
 
-## Available Scripts
+- [📖 About the Project](#about-project)
+  - [🗝️ Key Features](#key-features)
+  - [🛠️ Built With](#built-with)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-In the project directory, you can run:
+# 📖 Hello React - Front-End <a name="about-project"></a>
 
-### `npm start`
+**Hello React - Front-End** is an exercise to setup React + RoR as two different apps, by creating a React front-end with a Rails back-end and connecting them to display a random message. The Rails back-end can be found [here](https://github.com/shayan1234554321/hello-react-front-end).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🗝️ Key Features <a name="key-features"></a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Implements `@reduxjs/toolkit`
+- Implements `react-router-dom`
 
-### `npm test`
+## 🛠️ Built With <a name="built-with"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://react.dev">React</a></li>
+  </ul>
+</details>
 
-### `npm run build`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Getting Started <a name="getting-started"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To get a local copy up and running, follow these steps.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
 
-### `npm run eject`
+In order to run this project you need:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Install [Node.js](https://nodejs.org/en)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Setup
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Clone this repository to your desired folder:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```sh
+  git clone https://github.com/shayan1234554321/hello-react-front-end
+```
 
-## Learn More
+### Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To run the project, execute the following commands:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+  npm install
+  npm start
+```
 
-### Code Splitting
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 👥 Authors <a name="authors"></a>
 
-### Analyzing the Bundle Size
+👤 **Shayan**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- GitHub: [Shayan1234554321](https://github.com/shayan1234554321)
+- Twitter: [@shayan123455432](https://twitter.com/shayan123455432)
+- LinkedIn: [Shayan Khan](https://www.linkedin.com/in/shayan-khan20/)
 
-### Making a Progressive Web App
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🔭 Future Features <a name="future-features"></a>
 
-### Advanced Configuration
+- [ ] Deploy the app on [Render](https://www.render.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Deployment
+## 🤝 Contributing <a name="contributing"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Contributions, issues, and feature requests are welcome!
 
-### `npm run build` fails to minify
+Feel free to check the [issues page](https://github.com/shayan1234554321/hello-react-front-end/issues/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+A huge thanks to [Microverse](https://www.microverse.org) for their constant support.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
